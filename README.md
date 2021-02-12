@@ -5,3 +5,5 @@ Created 1/11/2021
 
 Entries:
 Calc.py is a basic calculator I created while teaching myself how to use tkinter with python
+
+weather.py is a basic weather app using an api to display the weather and air quality

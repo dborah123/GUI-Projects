@@ -8,7 +8,7 @@ Calc.py is a basic calculator I created while teaching myself how to use tkinter
   - Makes use of buttons, clear command, and 
 
 weather.py is a basic weather app using an api to display the weather and air quality
-  -Makes use of api's and changes colors
+  - Makes use of api's and changes colors
   
 database.py: is a basic data base gui I made with tkinter and sqlite
-  -Integrates sql with python, allowing user to add and update records in an address book
+  - Integrates sql with python, allowing user to add and update records in an address book

@@ -3,7 +3,7 @@ This is merely a repository for some of the small gui project I've worked. Most 
 
 Created 1/11/2021
 
-Entries:
+Entries:  
 Calc.py is a basic calculator I created while teaching myself how to use tkinter with python
   - Makes use of buttons, clear command, and 
 
